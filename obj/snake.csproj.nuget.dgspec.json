@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\project c#\\snake\\snake.csproj": {}
+    "d:\\project c#\\snake\\snake.csproj": {}
   },
   "projects": {
-    "D:\\project c#\\snake\\snake.csproj": {
+    "d:\\project c#\\snake\\snake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\project c#\\snake\\snake.csproj",
+        "projectUniqueName": "d:\\project c#\\snake\\snake.csproj",
         "projectName": "snake",
-        "projectPath": "D:\\project c#\\snake\\snake.csproj",
+        "projectPath": "d:\\project c#\\snake\\snake.csproj",
         "packagesPath": "C:\\Users\\LAPTOPJP.VN\\.nuget\\packages\\",
-        "outputPath": "D:\\project c#\\snake\\obj\\",
+        "outputPath": "d:\\project c#\\snake\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LAPTOPJP.VN\\AppData\\Roaming\\NuGet\\NuGet.Config"
